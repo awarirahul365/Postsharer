@@ -2,6 +2,17 @@
 
 Posts and video sharing application.
 
+
+# Technology Stack
+
+1. Google authentication using Firebase.
+
+2. Real-Time update of Posts and videos using firebase as backend.
+
+3. Like-DisLike feature for posts and videos.
+
+
+
 A new Flutter project.
 
 ## Getting Started
