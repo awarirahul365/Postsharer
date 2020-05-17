@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193938493178",
+    "firebase_url": "https://broprogram.firebaseio.com",
+    "project_id": "broprogram",
+    "storage_bucket": "broprogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193938493178:android:00fafa25c93a7d94658343",
+        "android_client_info": {
+          "package_name": "com.example.gareebgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193938493178-7hru2tpbccj6m81h7pt4k2haqgr4q0cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gareebgram",
+            "certificate_hash": "4c210f5cf46df0bb848ad4f57f9900bb6122dfda"
+          }
+        },
+        {
+          "client_id": "193938493178-hirkbf4lp83asncobrc9u588tvtoa0mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1D1nAuzIbzlVWUj6S4vNq4tzUb5r_cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193938493178-hirkbf4lp83asncobrc9u588tvtoa0mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
