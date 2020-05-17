@@ -1,6 +1,6 @@
 # Postsharer
 
-Post and video sharing application.
+Posts and video sharing application.
 
 A new Flutter project.
 
